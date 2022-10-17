@@ -66,11 +66,14 @@ ul{
   padding: 0;
 }
 
-.main-section{ 
+.main-section { 
+  background-image: url(img/main-pattern.png);
+  background-repeat: repeat;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: rgb(39, 42, 50);
 
 }
 
@@ -79,4 +82,11 @@ ul{
   align-items: center;
   column-gap: 20px;
   justify-content: space-between
+}
+
+.main-section-item-divs {
+  background-color: rgba(255, 255, 255, 0.1);
+  margin: 0px 0px 0.5em; 
+  padding: 16px 0px;
+  vertical-align: middle;
 }
