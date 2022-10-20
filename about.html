@@ -13,6 +13,35 @@
 <body>
   <div class="after-body">
 
+
+
+    <div id="mobile-menu" class="mobile-menu">
+      <div class="menu-cross">
+        <img
+          onclick="myFunction()"
+          class="cross-btn"
+          src="img/menu-cross.png"
+          alt=""
+        />
+      </div>
+
+      <ul class="mobile-menu-items">
+        <li>
+          <a onclick="myFunction()" href="index.html">Home</a>
+        </li>
+        <li><a onclick="myFunction()" href="about.html">About</a></li>
+        <li><a onclick="myFunction()" href="#contact-us-email">Contact</a></li>
+      </ul>
+    </div>
+
+
+
+
+
+
+
+
+
     <div class="social-icon-wrapper display">
       <div class="social-icons">
 
@@ -45,7 +74,7 @@
 
     <div class="burger-logo display-none">
       <ul>
-        <li><img class="burger-icon" src="img/burger-icon.png" alt=""></li>
+        <li><img onclick="myFunction()" class="burger-icon" src="img/burger-icon.png" alt=""></li>
         <li class="logo"> <img src="img/logo.png" alt=""></li>
       </ul>
 
@@ -82,7 +111,7 @@
     Please contact us per Email for any further questions about CC Global Summit 2015!
   </p>
 
-  <h1 class="contact-us-email">
+  <h1 id="contact-us-email" class="contact-us-email">
     ccsummit2015@cckorea.org
   </h1>
     </div>
@@ -193,7 +222,7 @@
   </div>
 
 
- 
+  <script src="script.js"></script>
 </body>
 
 </html>
