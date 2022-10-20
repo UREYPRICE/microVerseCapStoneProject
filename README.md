@@ -20,7 +20,7 @@ This is my personel version of the conference page [design](https://www.behance.
 Clone this repository using the command down below then open index.html file.
 
 ```
-git clone git@github.com:Kweeka1/capstone-project-conference-page.git
+git clone https://github.com/UREYPRICE/microVerseCapStoneProject.git
 ```
 
 ## Author
