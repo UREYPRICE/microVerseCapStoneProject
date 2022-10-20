@@ -31,6 +31,9 @@ git clone git@github.com:Kweeka1/capstone-project-conference-page.git
 
 Contributions to this project are very welcome!
 
+-Robert
+-My father
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
