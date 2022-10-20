@@ -9,7 +9,7 @@ function myFunction() {
 
 myFunction();
 
-const div = document.querySelector(".speakers-div");
+const div = document.querySelector('.speakers-div');
 
 div.innerHTML += `   <section class="speakers-section">
 
@@ -134,4 +134,4 @@ div.innerHTML += `   <section class="speakers-section">
 </article>
 
 
-</section>`
+</section>`;
