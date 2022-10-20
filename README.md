@@ -10,6 +10,8 @@ This is my personel version of the conference page [design](https://www.behance.
 - Javascript
 - FONT AWESOME ICONS
 - Bootstrap
+- Css Grid
+- Flexbox
 
 ## Live Demo
 
