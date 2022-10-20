@@ -25,7 +25,7 @@ git clone https://github.com/UREYPRICE/microVerseCapStoneProject.git
 
 ## Author
 
-- GitHub: [Mohamed Talbi](https://github.com/UREYPRICE)
+- GitHub: [Ahmed Waqar](https://github.com/UREYPRICE)
 
 ## 🤝 Contributing
 
