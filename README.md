@@ -1,49 +1,48 @@
-# Capstone project - Global AI Conference page
+# Microvers : First CapStone Project
 
-This is my personel version of the conference page [design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+> This project has been built as part of the reviewers exercise or training.
+> First CapStone Project
 
+## Built With
 
-## This Project Is Built With
-
-- HTML
-- CSS
-- Javascript
-- FONT AWESOME ICONS
-- Bootstrap
+- HTML, CSS3, JS
+- Github flow
+- VSCode
 
 ## Live Demo
 
-[Live Demo Link](https://ureyprice.github.io/microVerseCapStoneProject/)
+[Demo](https://ureyprice.github.io/microVerseCapStoneProject/)
 
-## Getting Started
+## Authors
 
-Clone this repository using the command down below then open index.html file.
+👤 **Ahmed Waqar**
 
-```
-git clone https://github.com/UREYPRICE/microVerseCapStoneProject.git
-```
-
-## Author
-
-- GitHub: [Ahmed Waqar](https://github.com/UREYPRICE)
+- GitHub: [@githubhandle](https://github.com/UREYPRICE)
+- Twitter: [@twitterhandle](https://twitter.com/AhmedWaqarQayum)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/AhmedWaqarQayum)
 
 ## 🤝 Contributing
 
-Contributions to this project are very welcome!
+Contributions, issues, and feature requests are welcome!
 
--Robert
-
--father
+Feel free to check the [issues page](https://ureyprice.github.io/microVerseCapStoneProject/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## License
+## Acknowledgments
+- Belal Gamal
+- Robert
+- Inspiration
+- My Father who morally supported me.
+- My sister
+- My weekly Micronut team (especially Robert)
 
-This project is available as open source under the terms of [MIT license](https://choosealicense.com/licenses/mit/).
+## 📝 License
+
+This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md) licensed.
 
 ## Credit
 
-- Original design idea is made by [Cindy Shin in Behance](https://www.behance.net/adagio07).
-- Content of the page is taken from [Global AI Summit](https://globalaisummit.org/en/default.aspx) webpage.
+Original design idea is made by [Cindy Shin in Behance](https://www.behance.net/adagio07).
